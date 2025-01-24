@@ -1,8 +1,4 @@
-Here’s a more detailed professional GitHub profile README:  
-
----
-
-# 👋 Hello, I'm **Vansh Dalal**  
+ # 👋 Hello, I'm **Vansh Dalal**  
 
 🎓 **Computer Engineering Student**  
 📊 **CGPA:** 9.57 (till Semester 7)  
