@@ -1,7 +1,7 @@
  # 👋 Hello, I'm **Vansh Dalal**  
 
-🎓 **Computer Engineering Student**  
-📊 **CGPA:** 9.57 (till Semester 7)  
+🎓 **Computer Engineer**  
+📊 **CGPA:** 9.7  
 🔍 A passionate **Software Developer**, **Web Developer**, and **Data Scientist** committed to solving real-world challenges through technology.  
 
 ---
@@ -25,7 +25,7 @@
 
 ### **Machine Learning & Artificial Intelligence**  
 - Frameworks: TensorFlow, PyTorch, Scikit-learn  
-- Specialization: Computer Vision, Semantic Segmentation, Object Detection  
+- Specialization: AI, LLMs, Computer Vision, Semantic Segmentation, Object Detection  
 - Tools: Pandas, NumPy, Matplotlib, Seaborn  
 
 ### **Cloud Platforms & Tools**  
