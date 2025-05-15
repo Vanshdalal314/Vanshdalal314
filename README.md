@@ -74,4 +74,4 @@
 
 ---
 
-📌 **Open to opportunities** in **Software Development**, **Web Development**, **Data Science**, and **Research**. Let’s collaborate to create meaningful and impactful solutions!  
+📌 **Open to opportunities** in **AI**, **Software Development**, **Web Development**, **Data Science**, and **Research**. Let’s collaborate to create meaningful and impactful solutions!  
