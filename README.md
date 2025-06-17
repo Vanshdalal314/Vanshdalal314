@@ -50,9 +50,9 @@
 
 ## 🌐 Connect With Me  
 
-- **LinkedIn:** [https://linkedin.com/in/vanshdalal314]#    
-- **GitHub:** [https://github.com/Vanshdalal314/]#
-- **Email:** dalalvanshb@gmail.com  
+- **LinkedIn:** [linkedin.com/in/vanshdalal314](https://linkedin.com/in/vanshdalal314)  
+- **GitHub:** [github.com/Vanshdalal314](https://github.com/Vanshdalal314)  
+- **Email:** dalalvanshb@gmail.com 
 
 ---
 
