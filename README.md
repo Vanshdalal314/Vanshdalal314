@@ -40,24 +40,6 @@
 
 ---
 
-## 🛠️ Current Projects  
-
-1. **Crater and Boulder Detection**  
-   - Fine-tuning a **Mask R-CNN model** for object detection on lunar surface images.  
-   - Leveraging **COCO format data** for accurate annotation and segmentation.  
-
-2. **Semantic Segmentation for Lunar Data**  
-   - Training a **UNet model** to identify craters and boulders with high precision.  
-   - Focused on enhancing segmentation accuracy for scientific research.  
-
-3. **Full-Stack Web Development**  
-   - Building responsive web applications using **React.js** and backend APIs with **Node.js**.  
-   - Integrating database solutions for scalable performance.  
-
-4. **Amazon Lex Chatbot Enhancement**  
-   - Working on integrating **AWS services** for advanced conversational AI solutions.  
-
----
 ## 🌟 Interests  
 
 - Exploring **AI-driven solutions** for space research and other scientific domains.  
