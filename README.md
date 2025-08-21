@@ -1,7 +1,7 @@
  # 👋 Hello, I'm **Vansh Dalal**  
 
 🎓 **Computer Engineer**  
-📊 **CGPA:** 9.7  
+📊 **CGPA:** 9.75  
 🔍 A passionate **Software Developer**, **Web Developer**, and **Data Scientist** committed to solving real-world challenges through technology.  
 
 ---
